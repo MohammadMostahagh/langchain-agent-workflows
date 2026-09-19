@@ -40,3 +40,19 @@ The workflow also considers missing or unavailable attributes and structured dat
 ## Academic Context
 
 This project was developed as part of coursework for a university Multi-Agent Systems course and is published here as part of my academic and programming portfolio.
+
+### 3. Research Paper Analysis Agent
+
+A LangGraph-based conversational workflow for interactive analysis of academic research papers.
+
+The agent supports:
+
+- Paper summarization
+- Main objective and result extraction
+- Question answering
+- Research question extraction
+- Weakness analysis
+- Research idea generation
+- Iterative idea refinement
+- Conversation memory
+- Conditional routing between specialized agents
